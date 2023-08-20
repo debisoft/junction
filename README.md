@@ -10,7 +10,7 @@ pinned: false
 license: lgpl
 ---
 
-# junction BiteBuddies AI/ML Stack🤖
+# Junction Asia - BiteBuddies AI/ML Stack🤖
 
 Tinder-style Recommender System/Collaborative Filtering
 
