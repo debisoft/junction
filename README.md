@@ -17,7 +17,7 @@ Tinder-style Recommender System/Collaborative Filtering
 
 Testing:
 
-  curl -X POST https://debisoft-junction.hf.space/api/predict -H 'Content-Type: application/json' -d '{"data": [<name>,<body_profile_type>]}
+    curl -X POST https://debisoft-junction.hf.space/api/predict -H 'Content-Type: application/json' -d '{"data": [<name>,<body_profile_type>]}
 
 body_profile_type => [0-4].
 Eg.
