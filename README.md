@@ -10,5 +10,7 @@ pinned: false
 license: lgpl
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 # junction
+
+Checkout the API Demo at
+https://huggingface.co/spaces/debisoft/junction
